@@ -10,6 +10,10 @@
 | [Flat Land](https://github.com/IncomeMC/.github/blob/main/plot_system.md#6-flat-land) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | Hard |
 | [Pad System](https://github.com/IncomeMC/.github/blob/main/plot_system.md#7-pad-system) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Very Hard |
 
+The goal is to explore different systems that could improve the player experience while keeping the important parts of IncomeMC, such as building, progression, generators, and player interaction.
+
+Each idea has its own advantages and disadvantages listed so we can compare them and vote on the system we think would git IncomeMC the best.
+
 ## 1. PlotSquared
 The current system uses PlotSquared, where each player claims a plot in a world.
 Players can merge up to 9 plots to increase their build area, allowing for larger generator systems and builds while still keeping everyone in the same world.
