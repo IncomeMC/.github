@@ -43,3 +43,20 @@ Unlike PlotSquared, players are not limited by nearby claims, giving them more f
 - The world can feel less active because everyone is separated.
 - Large builds require a lot of manual block placing.
 - New players may feel isolated compared to a shared plot world.
+
+## 3. Plot Portals
+The Plot Portals system keeps the idea of a shared plot world while removing the limitations of nearby plots.
+Players exist in the same world/plot, but they can't see each other. You visit plots by jumping in the portal (that's located in the middle of your plot) and choosing the user you'd like to visit.
+Players can like, favorite and share the plots that they've been to. The GUI will include a sorting system with "Most Views", "Most Likes", "Recent", "Oldest", and more.
+
+### Pros
+- Players can have much larger plots without worrying about neighbors blocking expansion.
+- Keeps the feeling of a shared world with easy visiting.
+- Players can showcase their builds and farms to others.
+- No need for plot merging limitations.
+- Allows for more competitions for highlighted spots or island icons.
+
+### Cons
+- Players may feel less connected since everyone has their own separate area.
+- Requires more development work compared to a normal plot system.
+- A confusing system, but new.
