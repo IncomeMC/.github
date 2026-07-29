@@ -2,10 +2,10 @@
 
 | Idea | Rating | Uniqueness | Scalability | Social | Freedom | Difficulty |
 |-|-|-|-|-|-|-|
-| PlotSquared | ⭐⭐⭐⭐ | ⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | Easy |
-| Skyblock | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | Easy |
-| Plot Portals | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | Medium |
-| Vertical Plots | ⭐⭐⭐ | ⭐⭐⭐  | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐| Medium |
+| [PlotSquared](https://github.com/IncomeMC/.github/blob/main/plot_system.md#1-plotsquared) | ⭐⭐⭐⭐ | ⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | Easy |
+| [Skyblock](https://github.com/IncomeMC/.github/blob/main/plot_system.md#2-skyblock) | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | Easy |
+| [Plot Portals](https://github.com/IncomeMC/.github/blob/main/plot_system.md#3-plot-portals) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | Medium |
+| [Vertical Plots](https://github.com/IncomeMC/.github/blob/main/plot_system.md#4-vertical-plots) | ⭐⭐⭐ | ⭐⭐⭐  | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐| Medium |
 | Public + Private | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | Hard |
 | Flat Land | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | Hard |
 | Pad System | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Very Hard |
@@ -60,3 +60,20 @@ Players can like, favorite and share the plots that they've been to. The GUI wil
 - Players may feel less connected since everyone has their own separate area.
 - Requires more development work compared to a normal plot system.
 - A confusing system, but new.
+
+## 4. Vertical Plots
+The Vertical Plots system changes the way players expand their builds by focusing on height instead of only expanding horizontally.
+Players start with a basic plot floor and can unlock additional floors as they progress. Each floor can have its own purpose.
+
+### Pros
+- Players can expand their base without needing more land.
+- Creates a sense of progression as new floors are unlocked.
+- Each floor can have a different theme or purpose.
+- Encourages creative farm designs, such as towers.
+
+### Cons
+- Horizontal building space is still limited.
+- Very large builds may not fit the floor size.
+- Players may prefer natural-looking builds instead of vertical structures.
+- Can become repetitive if every player's base becomes a tower.
+- Requires custom systems for unlocking and managing floors.
